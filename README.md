@@ -1,11 +1,10 @@
 # Hi, I'm Arthur 👋
 
-🎓 Double Master’s Student in Computer Science & Data / Artificial Intelligence Engineering
+🎓 Double Master’s Student in Computer Science & Data / Artificial Intelligence Engineering.
+🌍 Studied and worked in France, South Korea, and Canada.
+🚀 Looking for a **4–6 month internship starting May 2026** (Data / AI / CS).
 
-🌍 Studied and worked in France, South Korea, and Canada
-🚀 Looking for a **4–6 month internship starting May 2026** (Data / AI / CS)
-
---
+----
 
 ## 👨‍💻 About Me
 
