@@ -17,27 +17,10 @@ I enjoy building **end-to-end solutions**, from data preprocessing and modeling 
 
 ## 🧠 Tech Stack
 
-* **Languages:** Python, Java, SQL
+* **Languages:** Python, Java, SQL , C#
 * **Data & AI:** Pandas, NumPy, scikit-learn, TensorFlow, PyTorch
-* **Tools:** Git/GitHub, Jupyter, Power BI, Alteryx, Azure Machine Learning
+* **Tools:** Git/GitHub, Jupyter, Power BI, Alteryx, Azure Machine Learning, VSCode
 
----
-
-## 📌 Featured Projects
-
-🔹 **Titanic Survival Prediction**
-ML classification models (Random Forest, XGBoost, DNN) with feature engineering and evaluation.
-
-🔹 **Visual Recognition of Fish Species**
-CNN-based deep learning models for image and video classification.
-
-🔹 **Car Price Prediction (Azure ML)**
-End-to-end regression pipeline deployed on Azure Machine Learning.
-
-🔹 **Algorithms & Data Structures in Python**
-Core algorithms (Union-Find, search, complexity analysis).
-
----
 
 ## 📫 Contact
 
